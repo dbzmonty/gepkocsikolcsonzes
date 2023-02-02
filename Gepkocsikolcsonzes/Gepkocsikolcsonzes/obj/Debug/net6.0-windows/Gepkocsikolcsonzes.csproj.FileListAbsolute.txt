@@ -1,0 +1,17 @@
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\bin\Debug\net6.0-windows\Gepkocsikolcsonzes.exe
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\bin\Debug\net6.0-windows\Gepkocsikolcsonzes.deps.json
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\bin\Debug\net6.0-windows\Gepkocsikolcsonzes.runtimeconfig.json
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\bin\Debug\net6.0-windows\Gepkocsikolcsonzes.dll
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\bin\Debug\net6.0-windows\Gepkocsikolcsonzes.pdb
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.csproj.AssemblyReference.cache
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.Form1.resources
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.csproj.GenerateResource.cache
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.AssemblyInfoInputs.cache
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.AssemblyInfo.cs
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.csproj.CoreCompileInputs.cache
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.dll
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\refint\Gepkocsikolcsonzes.dll
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.pdb
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.genruntimeconfig.cache
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\ref\Gepkocsikolcsonzes.dll
