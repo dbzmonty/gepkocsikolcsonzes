@@ -4,7 +4,6 @@ E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonz
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\bin\Debug\net6.0-windows\Gepkocsikolcsonzes.dll
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\bin\Debug\net6.0-windows\Gepkocsikolcsonzes.pdb
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.csproj.AssemblyReference.cache
-E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.Form1.resources
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.csproj.GenerateResource.cache
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.GeneratedMSBuildEditorConfig.editorconfig
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.AssemblyInfoInputs.cache
@@ -15,3 +14,6 @@ E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonz
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.pdb
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.genruntimeconfig.cache
 E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\ref\Gepkocsikolcsonzes.dll
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.Properties.Resources.resources
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.Fooldal.resources
+E:\Cuccok\Programozás\C#\Gepkocsikolcsonzes\Gepkocsikolcsonzes\Gepkocsikolcsonzes\obj\Debug\net6.0-windows\Gepkocsikolcsonzes.Berles.resources

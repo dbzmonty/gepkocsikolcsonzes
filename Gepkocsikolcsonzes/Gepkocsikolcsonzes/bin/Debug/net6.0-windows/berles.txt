@@ -1,0 +1,7 @@
+﻿Bérlő neve: Lewis Hamilton
+Autó márkája: Kia
+Autó rendszáma: AY-2194
+Autó fogyasztása: 8 liter / 100km
+Bérlés dátuma: 2023.02.03
+Bérlés időtartama: 30 nap
+------------------------
